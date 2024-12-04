@@ -51,12 +51,26 @@ I believe that staying curious and adventurous fuels innovation, both in tech an
 
 I'm always looking for opportunities to collaborate, learn, and innovate. Whether you're exploring new technologies, brainstorming the next big idea, or looking for a skilled developer, I’d love to connect!  
 
-Feel free to connect with me, or just say hi! Together, we can turn ideas into reality.  
+Feel free to explore my work, or just say hi! Together, we can turn ideas into reality. 
 
-<a href="https://www.linkedin.com/in/adilyousuf1234"> <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="50px" alt="linkedin"> </a>
-<a href="mailto:adilyousuf1234@gmail.com"> <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50px" alt="mail"> </a>
-<a href="https://www.instagram.com/mohammed.adil.yousuf/"> <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="50px" alt="mail"> </a>
-<a href="https://x.com/Adil_Yousuf_"> <img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" width="50px" alt="mail"> </a>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/adilyousuf1234"> 
+    <img src="https://img.icons8.com/?size=48&id=13930&format=png&color=000000" alt="LinkedIn" width="50px"> 
+  </a>
+  <a href="mailto:adilyousuf1234@gmail.com"> 
+    <img src="https://img.icons8.com/?size=48&id=P7UIlhbpWzZm&format=png&color=000000" alt="Email" width="50px"> 
+  </a>
+  <a href="https://www.instagram.com/mohammed.adil.yousuf/"> 
+    <img src="https://img.icons8.com/?size=48&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="50px"> 
+  </a>
+  <a href="https://x.com/Adil_Yousuf_"> 
+    <img src="https://img.icons8.com/?size=48&id=phOKFKYpe00C&format=png&color=000000" alt="Twitter" width="50px"> 
+  </a>
+</div>
+
+---
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=AdilYousuf1234&label=Views&color=blue&style=plastic" alt="adil" /> </p>
 
 
 
