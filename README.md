@@ -32,7 +32,7 @@ I’m driven by my love for **exploring new technologies**, constantly pushing t
 
 ## 🎓 My Journey  
 
-I hold a **Bachelor's degree** from **Gokaraju Rangaraju Institute of Engineering and Technology**, where I honed my skills in engineering and problem-solving, setting the foundation for a career dedicated to innovation.  
+I hold a **Bachelor's degree** from **Gokaraju Rangaraju Institute of Engineering and Technology**, where I developed my skills in engineering and problem-solving, setting the foundation for a career dedicated to innovation.  
 
 ---
 
