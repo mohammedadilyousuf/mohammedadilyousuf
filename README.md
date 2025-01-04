@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Moto+Sans&weight=800&size=29&duration=10000&pause=10000&color=F7F7F7&width=435&lines=I+am+Mohammed+Adil+Yousuf)](https://git.io/typing-svg)
 
-Welcome to my corner of the digital universe! I'm a passionate **Software Engineer** with over 4 years of experience, dedicated to crafting secure, scalable, and efficient solutions that solve real-world challenges. My work bridges creativity and engineering, enabling businesses and individuals to thrive in a tech-driven world.  
+Welcome to my corner of the digital universe! I'm a passionate **Software Engineer** with over 4 years of experience, dedicated to crafting secure, scalable, and efficient solutions that solve real-world challenges. My work bridges creativity and engineering, enabling businesses and individuals to thrive in a tech-driven world. I’ve contributed to platforms that empower millions of users globally, demonstrating my ability to solve complex problems and optimize systems for scalability and efficiency.
 
 ---
 
