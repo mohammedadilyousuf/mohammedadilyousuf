@@ -55,6 +55,9 @@ Feel free to explore my work, or just say hi! Together, we can turn ideas into r
 
 
 <div align="center">
+  <a href="https://mohammedadilyousuf.github.io/">
+    <img src="https://img.icons8.com/?size=100&id=XgVsZZvTh0tg&format=png&color=000000" alt="Website" width="50px">
+  </a>
   <a href="https://www.linkedin.com/in/adilyousuf1234"> 
     <img src="https://img.icons8.com/?size=48&id=13930&format=png&color=000000" alt="LinkedIn" width="50px"> 
   </a>
